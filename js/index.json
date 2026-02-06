@@ -1,0 +1,310 @@
+{
+  "featured": [
+    {
+      "title": "苏黎世 · 6小时精华步行",
+      "city": "苏黎世",
+      "type": "路线",
+      "href": "zurich.html#plan",
+      "snippet": "金融气质—中世纪老城—湖畔松弛，一条线走完。",
+      "keywords": [
+        "苏黎世",
+        "6小时",
+        "步行",
+        "湖",
+        "老城"
+      ]
+    },
+    {
+      "title": "威尼斯 · 水城核心区漫游",
+      "city": "威尼斯",
+      "type": "路线",
+      "href": "venice.html#plan",
+      "snippet": "圣马可—总督府—里亚托—大运河，迷路也是体验。",
+      "keywords": [
+        "威尼斯",
+        "运河",
+        "圣马可",
+        "里亚托"
+      ]
+    },
+    {
+      "title": "佛罗伦萨 · 文艺复兴一日",
+      "city": "佛罗伦萨",
+      "type": "路线",
+      "href": "florence.html#plan",
+      "snippet": "百花大教堂—乌菲兹—老桥—米开朗基罗广场。",
+      "keywords": [
+        "佛罗伦萨",
+        "文艺复兴",
+        "乌菲兹",
+        "大卫"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "city": "苏黎世",
+      "title": "班霍夫大街 Bahnhofstrasse",
+      "type": "景点",
+      "href": "zurich.html#bahnhofstrasse",
+      "snippet": "奢侈品与银行的克制气质，苏黎世的第一印象。",
+      "keywords": [
+        "名表",
+        "金融",
+        "购物",
+        "班霍夫大街"
+      ]
+    },
+    {
+      "city": "苏黎世",
+      "title": "奥古斯丁巷 Augustinergasse",
+      "type": "景点",
+      "href": "zurich.html#augustinergasse",
+      "snippet": "彩色立面与瑞士国旗的老巷，适合拍照。",
+      "keywords": [
+        "老巷",
+        "国旗",
+        "街拍"
+      ]
+    },
+    {
+      "city": "苏黎世",
+      "title": "利马特河 Limmat",
+      "type": "景点",
+      "href": "zurich.html#limmat",
+      "snippet": "河流串起老城与教堂天际线。",
+      "keywords": [
+        "河",
+        "桥",
+        "老城"
+      ]
+    },
+    {
+      "city": "苏黎世",
+      "title": "林登霍夫山 Lindenhof",
+      "type": "景点",
+      "href": "zurich.html#lindenhof",
+      "snippet": "老城最佳观景点，20–30分钟轻松上山。",
+      "keywords": [
+        "观景",
+        "俯瞰",
+        "山丘"
+      ]
+    },
+    {
+      "city": "苏黎世",
+      "title": "苏黎世湖 Lake Zurich",
+      "type": "景点",
+      "href": "zurich.html#lake",
+      "snippet": "湖畔散步看天鹅，城市的呼吸空间。",
+      "keywords": [
+        "湖",
+        "天鹅",
+        "散步"
+      ]
+    },
+    {
+      "city": "苏黎世",
+      "title": "达达主义与伏尔泰酒馆 Cabaret Voltaire",
+      "type": "作品/文化",
+      "href": "zurich.html#works",
+      "snippet": "现代艺术反叛的起点之一。",
+      "keywords": [
+        "达达主义",
+        "现代艺术"
+      ]
+    },
+    {
+      "city": "威尼斯",
+      "title": "圣马可广场 Piazza San Marco",
+      "type": "景点",
+      "href": "venice.html#sanmarco",
+      "snippet": "共和国门面：广场、钟楼与海风。",
+      "keywords": [
+        "圣马可",
+        "广场",
+        "钟楼"
+      ]
+    },
+    {
+      "city": "威尼斯",
+      "title": "总督府 Palazzo Ducale",
+      "type": "景点",
+      "href": "venice.html#doge",
+      "snippet": "权力与审美合体的宫殿建筑群。",
+      "keywords": [
+        "哥特",
+        "共和国",
+        "宫殿"
+      ]
+    },
+    {
+      "city": "威尼斯",
+      "title": "大运河 Canal Grande",
+      "type": "景点",
+      "href": "venice.html#grandcanal",
+      "snippet": "城市主干道：水上巴士、桥与倒影。",
+      "keywords": [
+        "运河",
+        "水上巴士",
+        "桥"
+      ]
+    },
+    {
+      "city": "威尼斯",
+      "title": "里亚托桥 Rialto",
+      "type": "景点",
+      "href": "venice.html#rialto",
+      "snippet": "商业心脏：市场、桥与人潮。",
+      "keywords": [
+        "市场",
+        "桥",
+        "商业"
+      ]
+    },
+    {
+      "city": "威尼斯",
+      "title": "《威尼斯商人》",
+      "type": "作品/文化",
+      "href": "venice.html#works",
+      "snippet": "莎士比亚笔下的商贸、法律与人性。",
+      "keywords": [
+        "莎士比亚",
+        "戏剧",
+        "文学"
+      ]
+    },
+    {
+      "city": "佛罗伦萨",
+      "title": "圣母百花大教堂 Duomo",
+      "type": "景点",
+      "href": "florence.html#duomo",
+      "snippet": "穹顶改变建筑史；城市信仰与技艺的结晶。",
+      "keywords": [
+        "穹顶",
+        "大教堂",
+        "百花"
+      ]
+    },
+    {
+      "city": "佛罗伦萨",
+      "title": "乌菲兹美术馆 Uffizi",
+      "type": "景点",
+      "href": "florence.html#uffizi",
+      "snippet": "文艺复兴绘画宝库：波提切利等。",
+      "keywords": [
+        "美术馆",
+        "文艺复兴",
+        "绘画"
+      ]
+    },
+    {
+      "city": "佛罗伦萨",
+      "title": "老桥 Ponte Vecchio",
+      "type": "景点",
+      "href": "florence.html#pontevecchio",
+      "snippet": "跨河的金匠街与夕阳。",
+      "keywords": [
+        "桥",
+        "阿诺河",
+        "夕阳"
+      ]
+    },
+    {
+      "city": "佛罗伦萨",
+      "title": "但丁与《神曲》",
+      "type": "作品/文化",
+      "href": "florence.html#works",
+      "snippet": "城市精神：语言、信仰与政治的火焰。",
+      "keywords": [
+        "但丁",
+        "神曲",
+        "文学"
+      ]
+    },
+    {
+      "city": "米兰",
+      "title": "米兰大教堂 Duomo di Milano",
+      "type": "景点",
+      "href": "milan.html#duomo",
+      "snippet": "哥特尖塔森林，城市野心与工艺。",
+      "keywords": [
+        "大教堂",
+        "哥特",
+        "尖塔"
+      ]
+    },
+    {
+      "city": "米兰",
+      "title": "埃马努埃莱二世拱廊",
+      "type": "景点",
+      "href": "milan.html#galleria",
+      "snippet": "“客厅”级拱廊：玻璃穹顶与精品店。",
+      "keywords": [
+        "拱廊",
+        "购物",
+        "建筑"
+      ]
+    },
+    {
+      "city": "米兰",
+      "title": "《最后的晚餐》",
+      "type": "作品/文化",
+      "href": "milan.html#works",
+      "snippet": "达芬奇壁画：需预约，观赏时间有限。",
+      "keywords": [
+        "达芬奇",
+        "壁画",
+        "预约"
+      ]
+    },
+    {
+      "city": "罗马",
+      "title": "斗兽场 Colosseo",
+      "type": "景点",
+      "href": "rome.html#colosseum",
+      "snippet": "帝国娱乐与权力展示的遗迹。",
+      "keywords": [
+        "斗兽场",
+        "古罗马",
+        "遗迹"
+      ]
+    },
+    {
+      "city": "罗马",
+      "title": "万神殿 Pantheon",
+      "type": "景点",
+      "href": "rome.html#pantheon",
+      "snippet": "穹顶与天窗：古代工程与神圣光线。",
+      "keywords": [
+        "万神殿",
+        "穹顶",
+        "古代建筑"
+      ]
+    },
+    {
+      "city": "罗马",
+      "title": "特雷维喷泉 Trevi",
+      "type": "景点",
+      "href": "rome.html#trevi",
+      "snippet": "巴洛克戏剧性：水、石与愿望。",
+      "keywords": [
+        "喷泉",
+        "巴洛克",
+        "许愿"
+      ]
+    },
+    {
+      "city": "罗马",
+      "title": "罗马法与帝国道路",
+      "type": "作品/文化",
+      "href": "rome.html#works",
+      "snippet": "制度、城市与道路网络塑造欧洲。",
+      "keywords": [
+        "罗马法",
+        "帝国",
+        "道路"
+      ]
+    }
+  ]
+}
